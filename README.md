@@ -18,10 +18,10 @@ Soil is a natural sink for Carbon. Soil Organic Carbon (SOC) content is directly
 <img src="figure/without smooth spectra.PNG"/>
 
 ## Actual Vs Predicted
-<img src="figure/Actual Vs Predicted PLS.PNG"/>
+<img src="figure/Actual Vs Predicted PLS.png"/>
 
 ## Image Comparision | SOC_Predction -- Masked_Hyperspectral_image -- Original_RGB_Bands_of_Hyperspectral
-<img src="figure/All Images comparisions.PNG"/>
+<img src="figure/All Images comparisions.png"/>
 
 
 
